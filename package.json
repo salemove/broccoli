@@ -31,6 +31,7 @@
     "quick-temp": "^0.1.2",
     "rimraf": "^2.2.8",
     "rsvp": "^3.0.17",
+    "broccoli-sane-watcher": "krisselden/broccoli-sane-watcher",
     "tiny-lr": "^0.1.4"
   },
   "devDependencies": {
