@@ -20,18 +20,19 @@
   "homepage": "https://github.com/broccolijs/broccoli",
   "dependencies": {
     "broccoli-kitchen-sink-helpers": "^0.2.0",
+    "broccoli-sane-watcher": "krisselden/broccoli-sane-watcher#v1.1.5",
     "broccoli-slow-trees": "^1.1.0",
     "commander": "^2.0.0",
     "connect": "^3.2.0",
     "copy-dereference": "^1.0.0",
     "findup-sync": "^0.2.1",
+    "graceful-fs": "^4.1.11",
     "handlebars": "^3.0.1",
     "mime": "^1.2.11",
     "promise-map-series": "^0.2.1",
     "quick-temp": "^0.1.2",
     "rimraf": "^2.2.8",
     "rsvp": "^3.0.17",
-    "broccoli-sane-watcher": "krisselden/broccoli-sane-watcher",
     "tiny-lr": "^0.1.4"
   },
   "devDependencies": {
