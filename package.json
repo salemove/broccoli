@@ -31,7 +31,7 @@
     "quick-temp": "^0.1.2",
     "rimraf": "^2.2.8",
     "rsvp": "^3.0.17",
-    "broccoli-sane-watcher": "krisselden/broccoli-sane-watcher"
+    "broccoli-sane-watcher": "salemove/broccoli-sane-watcher#newer-sane-with-watchman"
   },
   "devDependencies": {
     "jshint": "~2.6.3",
